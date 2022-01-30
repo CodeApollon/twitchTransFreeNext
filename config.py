@@ -1,9 +1,9 @@
 ######################################################
 # PLEASE CHANGE FOLLOWING CONFIGS ####################
-Twitch_Channel          = 'target_channel_name'
+Twitch_Channel          = 'rintarou1986'
 
-Trans_Username          = 'trans_user_name'
-Trans_OAUTH             = 'oauth_for_trans_user'
+Trans_Username          = 'codeapollon'
+Trans_OAUTH             = 'oauth:mugphwfh5ib6yc5gl3e95cc1mxkiog'
 
 #######################################################
 # OPTIONAL CONFIGS ####################################
@@ -13,7 +13,7 @@ Trans_TextColor         = 'GoldenRod'
 lang_TransToHome        = 'ja'
 lang_HomeToOther        = 'en'
 
-Show_ByName             = True
+Show_ByName             = False
 Show_ByLang             = True
 
 Ignore_Lang             = ['']
